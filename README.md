@@ -41,9 +41,11 @@ My background bridges **data engineering, ML engineering, and cloud-native archi
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/salma-boukhris-2611bb161/)*  
-- 📂 [GitHub]([https://github.com/SalmaBoukhri](https://github.com/SalmaBoukhris)s)  
-- 📧 Email: **salmaboukhris.contact@gmail.com**  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/salma-boukhris-2611bb161/)  
+- 📂 [GitHub](https://github.com/SalmaBoukhris)  
+- 📧 Email: **salmaboukhris.contact@gmail.com**
+
 
 ---
 
