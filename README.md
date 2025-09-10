@@ -37,41 +37,48 @@
 
 ---
 
-## 🔧 Languages and Tools  
 
-<p align="left">
+<h2 align="center">🔧 Languages and Tools</h2>
+<br>
+<div align="center">
+
   <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/> 
 
   <!-- Data / ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> 
 
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/> 
 
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> 
 
   <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-</p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> 
+
+</div>
+
 
 ---
 
-## 🐍 My Contributions
+
+<h2 align="center"> 🐍 My Contributions </h2>
+<br>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/output/github-contribution-grid-snake-dark.svg">
@@ -81,15 +88,25 @@
 
 
 
+<hr/>
 
+<h2 align="center">⚡ Stats </h2>
+<br>
+<div align="center">
+  
+  <!-- Streak Stats Card -->
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SalmaBoukhris&count_private=true&theme=default&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&border_radius=10" alt="streak stats" />
 
-## ⚡ Stats
+  <!-- GitHub Stats Card -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=SalmaBoukhris&show_icons=true&count_private=true&theme=default&rank_icon=github&title_color=007BFF&icon_color=007BFF&text_color=000000&bg_color=FFFFFF&ring_color=007BFF&border_radius=10" alt="github stats" />
+  
+  <br/><br/>
 
+  <!-- Most Used Languages Card -->
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaBoukhris&hide=HTML&langs_count=8&layout=compact&theme=default&title_color=007BFF&text_color=000000&bg_color=FFFFFF&border_radius=10" alt="top languages" />
 
-![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalmaBoukhris&show_icons=true&theme=default) 
-![Salma's GitHub Streak](https://streak-stats.demolab.com?user=SalmaBoukhris&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaBoukhris&layout=compact&theme=default)
+</div>
 
-
+<br/><br/>
 
 
