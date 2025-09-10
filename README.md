@@ -1,27 +1,45 @@
 
-# Salma Boukhris — Data & Machine Learning Engineer
+<!-- Dynamic intro -->
+<h1 align="center">
+  Hi There! 👋
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-boukhris-2611bb161/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SalmaBoukhris)
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white&color=D14836)](mailto:salmaboukhris.contact@gmail.com)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3AA9F4&center=true&vCenter=true&width=700&lines=I'm+Salma+Boukhris!;Data+%26+Machine+Learning+Engineer;Azure+%7C+Databricks+%7C+MLOps" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  A passionate Data & Machine Learning Engineer focused on production-ready data platforms, NLP, and MLOps.
+</p>
+
+<!-- Contact badges centered, old style -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/salma-boukhris-2611bb161/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SalmaBoukhris">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:salmaboukhris.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white&color=D14836"/>
+  </a>
+</p>
+
 
 ---
 
-## About Me
+### About Me
 
-Data & Machine Learning Engineer specializing in secure, scalable, end-to-end **data and ML platforms** on **Azure** and **Databricks**. I build and operationalize **ETL/ELT pipelines**, **NLP and predictive models**, and **MLOps workflows** that align with governance and compliance requirements (NIST, ISO/IEC 27001, COBIT). Fluent in **English, French, and German** with cross-functional experience spanning finance, ESG research, and IT governance.
-
-**Core Competencies**
-- Data Engineering: Azure Data Factory, Databricks, Spark/PySpark, SQL/NoSQL, data quality and lineage
-- Machine Learning: NLP with transformers (BERT, RoBERTa, DistilBERT), predictive analytics, model evaluation
-- MLOps: Azure ML, MLflow, CI/CD (GitHub Actions, Azure DevOps), model versioning, monitoring, drift detection
-- Cloud & Big Data: Azure (primary), AWS (familiar), distributed processing, streaming, and data lakes
-- Governance & Compliance: NIST CSF, ISO/IEC 27001, COBIT; access control and audit-ready documentation
+- 🔭 I’m currently working on **production-ready ML pipelines** and **structured roadmaps** for Data Engineering & MLOps.  
+- 🌱 I’m learning **advanced MLOps**, **cloud-native AI on Azure/Databricks**, and **data governance**.  
+- 🤝 I want to collaborate on **open-source data/ML systems and MLOps tooling**.  
+- ❓ Ask me about **Data Engineering • MLOps • NLP • Azure & Databricks • Cloud Platforms**.
 
 ---
 
-
-## Languages and Tools  
+## 🔧 Languages and Tools  
 
 <p align="left">
   <!-- Programming -->
@@ -37,7 +55,7 @@ Data & Machine Learning Engineer specializing in secure, scalable, end-to-end **
 
   <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> 
 
   <!-- Databases -->
@@ -51,34 +69,25 @@ Data & Machine Learning Engineer specializing in secure, scalable, end-to-end **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-</p>
-
-
-
+</p>  
 
 ---
+## 🐍 My Contributions
 
-## Certifications
-
-- ISACA Certified Information Systems Auditor (CISA) — Cert Prep  
-- Microsoft Certified: Azure Data Engineer Associate (DP-203)  
-- Microsoft Certified: Azure Database Administrator Associate (DP-300)  
-- Microsoft Certified: Azure Data Scientist Associate (DP-100)  
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300 / formerly DA-100)  
-- Microsoft Certified: Azure Data Fundamentals (DP-900)  
-- Microsoft Certified: Azure Fundamentals (DZ-900)  
-- Bloomberg Market Concepts; Finance Fundamentals; Environmental, Social & Governance
-
----
-
-## Education
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/output/github-contribution-grid-snake.svg">
+</picture>
 
 
-- **Master of Data Science: Business Computing** — University of Manouba, ESCT, Tunisia  
-- **Master of Finance** — University of Manouba, ESCT, Tunisia  
-- **Bachelor of Finance** — University of Manouba, ESCT, Tunisia
----
+## ⚡ Stats
+
+
+![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalmaBoukhris&show_icons=true&theme=default) 
+![Salma's GitHub Streak](https://streak-stats.demolab.com?user=SalmaBoukhris&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaBoukhris&layout=compact&theme=default)
 
 
 
-> **Note:** This profile is a work in progress as I continue building projects, completing certifications, and sharing roadmaps. Stay tuned for more updates!
+
