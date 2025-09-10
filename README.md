@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3AA9F4&center=true&vCenter=true&width=700&lines=I'm+Salma+Boukhris!;Data+%26+Machine+Learning+Engineer;Azure+%7C+Databricks+%7C+MLOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E63946&center=true&vCenter=true&width=700&lines=I'm+Salma+Boukhris!;Data+%26+Machine+Learning+Engineer;Azure+%7C+Databricks+%7C+MLOps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -76,9 +76,9 @@
 ## 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/output/github-contribution-grid-snake-blue-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/output/github-contribution-grid-snake-blue.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/output/github-contribution-grid-snake-blue.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/main/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/main/assets/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/main/assets/github-contribution-grid-snake.svg">
 </picture>
 
 
