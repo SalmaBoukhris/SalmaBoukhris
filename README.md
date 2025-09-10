@@ -1,13 +1,11 @@
-
-<!-- Dynamic intro -->
-<h1 align="center">
-  Hi There! 👋
-</h1>
-
+<!-- First SVG: Hi There -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E63946&center=true&vCenter=true&width=700&lines=I'm+Salma+Boukhris!;Data+%26+Machine+Learning+Engineer;Azure+%7C+Databricks+%7C+MLOps" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=0A58CAF6&center=true&vCenter=true&width=700&lines=Hi+There!+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+  
+<!-- Second SVG: Name + Role -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=0A58CAF6&center=true&vCenter=true&width=700&lines=I+am+Salma+Boukhris!;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -80,6 +78,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/main/assets/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/SalmaBoukhris/SalmaBoukhris/main/assets/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
